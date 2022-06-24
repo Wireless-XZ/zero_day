@@ -1,4 +1,1 @@
-~~~~
-name = "XZ"
-print("Hi there, I'm " + name)
-~~~~
+Let's Learn
